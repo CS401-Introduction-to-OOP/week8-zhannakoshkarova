@@ -6,9 +6,9 @@ Letter letter1 = new Letter("TT22345", 1);
 
 Letter letter2 = new Letter("TT5678", 0.5);
 
-Parcel parcel1 = new Parcel("TT56789", 23);
+Parcel parcel1 = new Parcel("TT56789", 23, "30x40x50");
 
-Parcel parcel2 = new Parcel("TT678909876", 12);
+Parcel parcel2 = new Parcel("TT678909876", 12, "45x56x78");
 
 letter1.PrintInfo();
 parcel2.PrintInfo();
